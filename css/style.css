@@ -1,0 +1,36 @@
+body {
+  padding: 2rem 0 0 2rem;
+  background-color: #6e3667
+}
+
+.bg {
+  background-color: #88d317;
+  border-radius: 18px;
+}
+
+#quote-box {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  }
+
+#text {
+  font-size: 4rem;
+}
+
+#author {
+  font-size: 3rem;
+  text-align: right;
+  padding: 2rem;
+}
+
+#buttons {
+  
+  position: sticky;
+  padding: 4vw;
+  margin: 4vw;
+}
+
+.btn-success{
+  color:#6e3667;
+}
